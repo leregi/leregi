@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**leregi/leregi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Full-stack engineer with a passion for building performant web and mobile apps that users love.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled in :ruby: Ruby, :javascript: JavaScript, :react: React, and :flutter: Flutter. Always excited to take on new challenges in distributed systems, microservices, blockchain platforms.
+
+Currently learning :rust: Rust 
+
+Previously worked at companies like ACCESS Haiti, HAINET, and DINASA. Focused on writing clean, modular, well-tested code.
+
+Top Skills
+:ruby: Ruby on Rails
+:react: React.js
+:flutter: Flutter
+:cloud: API design / development
+Microservice architecture
+Agile methodologies
+Find me on LinkedIn
